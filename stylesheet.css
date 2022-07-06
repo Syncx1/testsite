@@ -6,11 +6,18 @@ html {
     scroll-behavior: smooth;
 }
 
+p {
+    font-family: "Segoe UI",Arial,sans-serif;
+}
+
+h1 {
+    font-family: "Segoe UI",Arial,sans-serif;
+}
+
 #welcome {
     background-color: aqua;
     text-align: center;
     color: black;
-    font-family: "Segoe UI",Arial,sans-serif;
 }
 
 .centered-image {
